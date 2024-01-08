@@ -28,7 +28,7 @@ No modeling was required since we needed just a table for the analysis.
 
 ##  Visualization
 Having done the necessary cleaning and transformation, I loaded the datasets into my Power BI  Desktop for analysis and dashboard creation. Below is the generated report.
-
+![](dashboard.png)
 
 ## Conclusion & Recommendation
 The Visual was able to show the Accepted Campaign,  Purchases, Income and Spending by Day, Spending by Education, and Complain trend by year and Quarte, Income and Spending by year and  Quarter.
