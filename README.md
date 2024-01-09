@@ -1,5 +1,7 @@
 # Marketing-Campaign-Insight-Analysis
 
+![](marketingcampaign.jpeg)
+
 #  INTRODUCTION
 This is a Power BI project on Marketing Campaign Insight Analysis of an imaginary Company called “UrbanMart” The project is to Analyze and derive insights to answer crucial questions and help the company make data-driven decisions. The dataset, a CSV file contained a single data table structure with  29 Fields and 2,240 records Power BI was used for the analysis.
 DISCLAIMER: This dataset and report do not represent any company, institution or country, but just a dummy dataset to demonstrate the capabilities of Power BI.
